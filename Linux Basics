@@ -1,6 +1,11 @@
 *The Terminal and Linux commands
 pwd  - Prints current directory
 ls - list all the directories and contents inside the current directory
+ls -l - To see more information about the files
 cd - Navigate to another directory
 cd .. - back to parent directory
 man ls  - prints how to use the ls command
+q - exit man interface
+clear - clear screen
+ls --help - 
+
