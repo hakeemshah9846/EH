@@ -1,0 +1,6 @@
+*The Terminal and Linux commands
+pwd  - Prints current directory
+ls - list all the directories and contents inside the current directory
+cd - Navigate to another directory
+cd .. - back to parent directory
+man ls  - prints how to use the ls command
